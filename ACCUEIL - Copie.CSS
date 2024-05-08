@@ -1,0 +1,77 @@
+
+body {
+    background-image: url(help.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size :1300px;
+    margin: 20px;
+    width: auto;
+
+}
+.body html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+   
+
+
+
+
+.figure{
+    text-align: center;}
+  
+    #accueil{
+        font-weight: bold;
+        color: green;
+        
+    }
+    .content{
+        color: green;
+    }
+    .logo{
+        color: green;
+        text-align: center;
+    }
+
+    .res{
+        color: green;
+    }
+    .box{
+        display: flex;
+
+    }
+    .box img{
+        max-width: 100px;
+        margin-right: 29px;
+    }
+         
+
+    
+    .medocs{
+        color: green;
+        text-align: center;
+    }
+    .table{
+        
+        border-collapse: collapse;
+        
+
+
+    }
+    .caption{
+        font-size: 1.2em;
+        margin-bottom: 10px;
+    }
+    .th td{
+        border: 1px solid #ddd;
+        padding: 0.5em;
+        text-align: center;
+    }
+    .th{
+        background-color: #f2f2f2;
+    }
+    
