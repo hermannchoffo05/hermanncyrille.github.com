@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(form3.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size :1300px;
+    margin: 20px;
+    width: auto;
+}
+   
+.formulaire{
+    color: rgb(12, 51, 12);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300px;    text-align: center;
+}
+.we{
+    color:green;
+    
+}
+
+.container{
+    color: green;
+}
+
+
+
+

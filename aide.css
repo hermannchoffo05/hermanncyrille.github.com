@@ -1,0 +1,15 @@
+body{
+    background-image: url(form1.jpg );
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size :1300px;
+    margin: 20px;
+    width: auto;
+}
+.con{
+    text-align: center;
+    color: yellow;
+}
+.det{
+    color: yellow;
+}

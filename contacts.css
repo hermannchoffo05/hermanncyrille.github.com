@@ -1,0 +1,43 @@
+body{
+    background-image: url(apro.jpg );
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size :1300px;
+    margin: 20px;
+    width: auto;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+    position: relative;
+}
+nav ul li a{
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+}
+nav ul ul{
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+nav ul ul li{
+    display: block;
+
+}
+nav ul li:hover>ul {
+    display: block;
+
+} 
+.clox{
+    color:blue
+}
